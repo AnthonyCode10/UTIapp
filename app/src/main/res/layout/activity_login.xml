@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="108dp"
         android:fontFamily="@font/modak"
-        android:text="BIENBENIDO"
+        android:text="BIENVENIDO"
         android:textAlignment="center"
         android:textColor="#508CFA"
         android:textSize="40sp"
